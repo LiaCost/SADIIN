@@ -1,2 +1,10 @@
 requests
+fastapi
+uvicorn
+httpx
+tenacity
+pydantic
 pytest
+pytest-asyncio
+pandas
+openpyxl

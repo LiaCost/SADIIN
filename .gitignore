@@ -1,7 +1,8 @@
-dados_normalizados_cnes.json
+dados_salvos
 venv/
 .venv/
 env/
+.env
 __pycache__/
 *.pyc
 *.pyo
